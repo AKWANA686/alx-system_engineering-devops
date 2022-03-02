@@ -1,2 +1,2 @@
 #!/bin/bash
-mklink ln-s_ls_/bin/ls 
+pwd 
