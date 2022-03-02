@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd  mklink ln-s_ls_/bin/ls 
+mklink ln-s_ls_/bin/ls 
