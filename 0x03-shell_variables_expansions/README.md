@@ -10,3 +10,4 @@ File 8-trueknowledge- a script that prints the result of the addition of 128 wit
 File 9-divideandrule-  a script that prints the result of POWER divided by DIVIDE
 File 10-loveexponentbreath- a script that displays the result of BREATH to the power LOVE
 File 11-binarytodecimal- a script that converts a number from base 2 to base 10.
+File 12-combinations- a script that prints all possible combinations of two letters, except oo
