@@ -7,3 +7,4 @@ File 5-localvariables- a script that lists all local variables and environment v
 File 6-createlocalvariable- a script that creates a new local variable
 File 7-createglobalvariable- a script that creates a new global variable
 File 8-trueknowledge- a script that prints the result of the addition of 128 with the value stored in the environment variable
+File 9-divideandrule-  a script that prints the result of POWER divided by DIVIDE
