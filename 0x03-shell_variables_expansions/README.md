@@ -9,3 +9,4 @@ File 7-createglobalvariable- a script that creates a new global variable
 File 8-trueknowledge- a script that prints the result of the addition of 128 with the value stored in the environment variable
 File 9-divideandrule-  a script that prints the result of POWER divided by DIVIDE
 File 10-loveexponentbreath- a script that displays the result of BREATH to the power LOVE
+File 11-binarytodecimal- a script that converts a number from base 2 to base 10.
